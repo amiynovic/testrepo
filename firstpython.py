@@ -1,3 +1,0 @@
-
-
-print("New Python file")
